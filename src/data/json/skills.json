@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "icon": "fab fa-html5",
+        "skill": "HTML",
+        "porcentage": "100%",
+        "category": "frontend"
+    },
+    {
+        "id": 2,
+        "icon": "fab fa-css3",
+        "skill": "CSS",
+        "porcentage": "100%",
+        "category": "frontend"
+    },
+    {
+        "id": 3,
+        "icon": "fab fa-js",
+        "skill": "JavaScript",
+        "porcentage": "100%",
+        "category": "frontend"
+    },
+    {
+        "id": 4,
+        "icon": "fab fa-react",
+        "skill": "React",
+        "porcentage": "100%",
+        "category": "frontend"
+    },
+    {
+        "id": 5,
+        "icon": "fab fa-sass",
+        "skill": "Sass",
+        "porcentage": "90%",
+        "category": "frontend"
+    },
+    {
+        "id": 6,
+        "icon": "fab fa-node",
+        "skill": "Node JS",
+        "porcentage": "80%",
+        "category": "backend"
+    },
+    {
+        "id": 7,
+        "icon": "fab fa-node-js",
+        "skill": "Express JS",
+        "porcentage": "80%",
+        "category": "backend"
+    },
+    {
+        "id": 8,
+        "icon": "fas fa-database",
+        "skill": "MongoDB",
+        "porcentage": "60%",
+        "category": "backend"
+    },
+    {
+        "id": 9,
+        "icon": "fas fa-database",
+        "skill": "SQL Server",
+        "porcentage": "100%",
+        "category": "backend"
+    },
+    {
+        "id": 10,
+        "icon": "fab fa-java",
+        "skill": "Java",
+        "porcentage": "50%",
+        "category": "backend"
+    }
+]
